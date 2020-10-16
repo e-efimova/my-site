@@ -1,13 +1,15 @@
 @font-face {
    font-family: 'Caveat';
-   src: url('fonts/Caveat-Regular.ttf');
+   src: url('fonts/caveat-regulator.woff') format ('woff');
+   src: url('fonts/caveat-regulator.woff2') format ('woff2');
    font-weight: normal;
    font-style: normal;
 }
 
 @font-face {
   font-family: 'Caveat';
-  src: url('fonts/Caveat-Bold.ttf');
+  src: url('fonts/caveat-Bold.woff') format ('woff');
+   src: url('fonts/caveat-Bold.woff2') format ('woff2');
   font-weight: bold;
   font-style: normal;
 }
